@@ -32,7 +32,7 @@ let showMenu = ref(false);
 <template>
   <header class="border-t-14 border-blue-600 shadow-sm md:shadow-none">
     <div class="container mx-auto">
-      <section class="flex justify-between py-4 items-center">
+      <section class="flex justify-between py-4 items-center ml-2.5 md:ml-0">
         <h1 class="text-4xl text-gray-800 font-bold">
           Fuad<span class="text-blue-600">Pilus</span>
         </h1>
