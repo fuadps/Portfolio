@@ -1,26 +1,23 @@
 <script setup>
-import twitterIconUrl from "@/assets/icons/twitter.png";
-import linkedinIconUrl from "@/assets/icons/linkedin.png";
-import githubIconUrl from "@/assets/icons/github.png";
 import IconLink from "@/components/IconLink.vue";
 import { ref } from "vue";
 
 let icons = [
   {
     title: "Twitter",
-    src: twitterIconUrl,
+    src: "/assets/icons/twitter.png",
     href: "",
     alt: "twitter icon",
   },
   {
     title: "LinkedIn",
-    src: linkedinIconUrl,
+    src: "/assets/icons/linkedin.png",
     href: "",
     alt: "linkedin icon",
   },
   {
     title: "GitHub",
-    src: githubIconUrl,
+    src: "/assets/icons/github.png",
     href: "",
     alt: "github icon",
   },

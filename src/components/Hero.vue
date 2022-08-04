@@ -1,6 +1,4 @@
-<script setup>
-import heroUrl from "@/assets/icons/webdev.png";
-</script>
+<script setup></script>
 <template>
   <section class="grid grid-cols-1 md:grid-cols-2 content-center gap-6">
     <div class="flex flex-col align-middle justify-center order-2 md:order-1">
@@ -25,7 +23,7 @@ import heroUrl from "@/assets/icons/webdev.png";
     </div>
     <div class="order-1 md:order-2">
       <img
-        :src="heroUrl"
+        src="/assets/icons/webdev.png"
         alt="hero"
         class="max-h-52 mx-auto md:mr-auto md:ml-0"
       />
