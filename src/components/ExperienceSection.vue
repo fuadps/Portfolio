@@ -7,7 +7,7 @@ let experiences = [
     items: [
       "Developed web applications based on client request.",
       "Maintaining and consulting previous company as a freelance.",
-      "Involve in TravelCRM by Muslimtravelbug for new features and bug fixes.",
+      "Involved in TravelCRM by Muslimtravelbug for new features and bug fixes.",
     ],
   },
 
@@ -33,6 +33,18 @@ let experiences = [
       "Develop new features, improvement to existing features and maintain Contesthub, a system used for organize event or competition created by company.",
       "Working on the back-end side, and a little front-end when needed.",
       "Responsible develop & design website for every competition & event.",
+    ],
+  },
+
+  {
+    position: "Software Engineer Intern",
+    company: "Sonicboom Solutions Sdn Bhd",
+    duration: "December 2017 - April 2018",
+    items: [
+      "Programming in C#, ASP. Net/MVC, WPF to build desktop and web application.",
+      "Develop application/system using Microsoft Visual Studio, SQL Server and Reporting Services",
+      "Working on the back-end side, and a little front-end when needed.",
+      "Assist senior to work as a team to maintain or implement project.",
     ],
   },
 ];
