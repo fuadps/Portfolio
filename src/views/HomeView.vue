@@ -2,6 +2,7 @@
 import Hero from "@/components/Hero.vue";
 import GeneralSection from "@/components/GeneralSection.vue";
 import SkillSection from "@/components/SkillSection.vue";
+import PortfolioSection from "@/components/PortfolioSection.vue";
 </script>
 
 <template>
@@ -28,6 +29,10 @@ import SkillSection from "@/components/SkillSection.vue";
 
     <GeneralSection class="mt-12" title="Skills">
       <SkillSection />
+    </GeneralSection>
+
+    <GeneralSection class="mt-12" title="Portfolio (Commercial Products)">
+      <PortfolioSection />
     </GeneralSection>
   </main>
 </template>
