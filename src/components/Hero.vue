@@ -5,7 +5,7 @@
       <h1 class="text-5xl font-bold text-center md:text-right mb-4">
         Hey mate!
       </h1>
-      <p class="text-lg text-center md:text-right">
+      <p class="text-xl text-center md:text-right">
         My name is Fuad Pilus. <br />
         3+ years experience as a Software Developer. <br class="" />
         I am currently make a living by converts caffeine into code.
