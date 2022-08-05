@@ -6,7 +6,7 @@ import PortfolioSection from "@/components/PortfolioSection.vue";
 </script>
 
 <template>
-  <main class="container mx-auto py-16 px-4">
+  <main class="container mx-auto py-16 px-4 md:max-w-5xl">
     <Hero />
     <GeneralSection class="mt-12" title="Me">
       <p class="leading-relaxed text-center md:text-start">
