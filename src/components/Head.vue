@@ -1,29 +1,7 @@
 <script setup>
 import IconLink from "@/components/IconLink.vue";
 import { ref } from "vue";
-
-let icons = [
-  {
-    title: "Twitter",
-    src: "/assets/icons/twitter.png",
-    href: "https://twitter.com/fuaadps",
-    alt: "twitter icon",
-  },
-  {
-    title: "LinkedIn",
-    src: "/assets/icons/linkedin.png",
-    href: "https://www.linkedin.com/in/fuadps/",
-    alt: "linkedin icon",
-  },
-  {
-    title: "GitHub",
-    src: "/assets/icons/github.png",
-    href: "https://github.com/fuadps",
-    alt: "github icon",
-  },
-];
-
-let ctaLink = ref("mailto:fuadpls@gmail.com");
+import { icons, ctaLink } from "/portfolio.json";
 
 let showMenu = ref(false);
 </script>

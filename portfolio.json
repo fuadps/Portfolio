@@ -1,0 +1,184 @@
+{
+  "icons": [
+    {
+      "title": "Twitter",
+      "src": "/assets/icons/twitter.png",
+      "href": "https://twitter.com/fuaadps",
+      "alt": "twitter icon"
+    },
+    {
+      "title": "LinkedIn",
+      "src": "/assets/icons/linkedin.png",
+      "href": "https://www.linkedin.com/in/fuadps/",
+      "alt": "linkedin icon"
+    },
+    {
+      "title": "GitHub",
+      "src": "/assets/icons/github.png",
+      "href": "https://github.com/fuadps",
+      "alt": "github icon"
+    }
+  ],
+
+  "ctaLink": "mailto:fuadpls@gmail.com",
+  
+  "skills": [
+    {
+      "title": "Laravel",
+      "src": "/assets/icons/laravel.png"
+    },
+    {
+      "title": "VueJS",
+      "src": "/assets/icons/vue.png"
+    },
+    {
+      "title": "TailwindCSS",
+      "src": "/assets/icons/tailwind.png"
+    },
+    {
+      "title": "PHP",
+      "src": "/assets/icons/php.png"
+    },
+    {
+      "title": "JavaScript",
+      "src": "/assets/icons/javascript.png"
+    },
+    {
+      "title": "MySQL",
+      "src": "/assets/icons/mysql.png"
+    },
+    {
+      "title": "jQuery",
+      "src": "/assets/icons/jquery.png"
+    },
+    {
+      "title": "Bootstrap",
+      "src": "/assets/icons/bootstrap.png"
+    },
+    {
+      "title": "Wordpress",
+      "src": "/assets/icons/wordpress.png"
+    },
+    {
+      "title": "Git",
+      "src": "/assets/icons/git.png"
+    }
+  ],
+
+  "portfolios": [
+    {
+      "title": "Kiddocare",
+      "icon": "/assets/icons/kiddocare.png",
+      "stacks": [
+        {
+          "title": "Laravel",
+          "icon": "/assets/icons/laravel.png"
+        },
+        {
+          "title": "VueJS",
+          "icon": "/assets/icons/vue.png"
+        },
+        {
+          "title": "Bootstrap",
+          "icon": "/assets/icons/bootstrap.png"
+        }
+      ],
+      "items": [
+        "Babysitter service between carer & client.",
+        "API integration with mobile and web."
+      ]
+    },
+    {
+      "title": "Contesthub",
+      "icon": "/assets/icons/contesthub.png",
+      "stacks": [
+        {
+          "title": "Laravel",
+          "icon": "/assets/icons/laravel.png"
+        },
+        {
+          "title": "VueJS",
+          "icon": "/assets/icons/vue.png"
+        },
+        {
+          "title": "Bootstrap",
+          "icon": "/assets/icons/bootstrap.png"
+        }
+      ],
+      "items": [
+        "Contest & competition management system.",
+        "More than 50,000 students register for competition. (as per 2021)"
+      ]
+    },
+    {
+      "title": "TravelCRM",
+      "icon": "/assets/icons/travelcrm.png",
+      "stacks": [
+        {
+          "title": "Laravel",
+          "icon": "/assets/icons/laravel.png"
+        },
+        {
+          "title": "jQuery",
+          "icon": "/assets/icons/jquery.png"
+        },
+        {
+          "title": "Bootstrap",
+          "icon": "/assets/icons/bootstrap.png"
+        }
+      ],
+      "items": [
+        "Travel and tourism booking management.",
+        "Include referral program for both agency and freelancer."
+      ]
+    }
+  ],
+
+  "experiences": [
+    {
+      "position": "Web Developer",
+      "company": "Freelance",
+      "duration": "February 2022 - Present",
+      "items": [
+        "Developed web applications based on client request.",
+        "Maintaining and consulting previous company as a freelance.",
+        "Involved in TravelCRM by Muslimtravelbug for new features and bug fixes."
+      ]
+    },
+    {
+      "position": "Web Developer",
+      "company": "Kiddocare Sdn Bhd",
+      "duration": "December 2020 - January 2022",
+      "items": [
+        "Malaysia’s first and preferred on-demand babysitting platform.",
+        "Develop REST API using Laravel to create integration with front-end and mobile application.",
+        "Build customer web booking system (front-end) using VueJS.",
+        "Ensure admin dashboard has real-time booking information.",
+        "Integrate real-time chat system using websocket."
+      ]
+    },
+    {
+      "position": "Web Developer",
+      "company": "Ardent Educational Sdn Bhd",
+      "duration": "Jun 2019 - November 2022",
+      "items": [
+        "Leading education advisory and consultancy service from Malaysia.",
+        "Develop new features, improvement to existing features and maintain Contesthub, a system used for organize event or competition created by company.",
+        "Working on the back-end side, and a little front-end when needed.",
+        "Responsible develop & design website for every competition & event."
+      ]
+    },
+    {
+      "position": "Software Engineer Intern",
+      "company": "Sonicboom Solutions Sdn Bhd",
+      "duration": "December 2017 - April 2018",
+      "items": [
+        "Programming in C#, ASP. Net/MVC, WPF to build desktop and web application.",
+        "Develop application/system using Microsoft Visual Studio, SQL Server and Reporting Services",
+        "Working on the back-end side, and a little front-end when needed.",
+        "Assist senior to work as a team to maintain or implement project."
+      ]
+    }
+  ]
+
+}

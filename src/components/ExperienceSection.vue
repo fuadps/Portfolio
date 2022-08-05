@@ -1,53 +1,5 @@
 <script setup>
-let experiences = [
-  {
-    position: "Web Developer",
-    company: "Freelance",
-    duration: "February 2022 - Present",
-    items: [
-      "Developed web applications based on client request.",
-      "Maintaining and consulting previous company as a freelance.",
-      "Involved in TravelCRM by Muslimtravelbug for new features and bug fixes.",
-    ],
-  },
-
-  {
-    position: "Web Developer",
-    company: "Kiddocare Sdn Bhd",
-    duration: "December 2020 - January 2022",
-    items: [
-      "Malaysia’s first and preferred on-demand babysitting platform.",
-      "Develop REST API using Laravel to create integration with front-end and mobile application.",
-      "Build customer web booking system (front-end) using VueJS.",
-      "Ensure admin dashboard has real-time booking information.",
-      "Integrate real-time chat system using websocket.",
-    ],
-  },
-
-  {
-    position: "Web Developer",
-    company: "Ardent Educational Sdn Bhd",
-    duration: "Jun 2019 - November 2022",
-    items: [
-      "Leading education advisory and consultancy service from Malaysia.",
-      "Develop new features, improvement to existing features and maintain Contesthub, a system used for organize event or competition created by company.",
-      "Working on the back-end side, and a little front-end when needed.",
-      "Responsible develop & design website for every competition & event.",
-    ],
-  },
-
-  {
-    position: "Software Engineer Intern",
-    company: "Sonicboom Solutions Sdn Bhd",
-    duration: "December 2017 - April 2018",
-    items: [
-      "Programming in C#, ASP. Net/MVC, WPF to build desktop and web application.",
-      "Develop application/system using Microsoft Visual Studio, SQL Server and Reporting Services",
-      "Working on the back-end side, and a little front-end when needed.",
-      "Assist senior to work as a team to maintain or implement project.",
-    ],
-  },
-];
+import { experiences } from "/portfolio.json";
 </script>
 
 <template>

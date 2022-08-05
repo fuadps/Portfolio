@@ -1,77 +1,7 @@
 <script setup>
 import PortfolioCard from "@/components/PortfolioCard.vue";
 import PortfolioStackLabel from "@/components/PortfolioStackLabel.vue";
-
-let portfolios = [
-  {
-    title: "Kiddocare",
-    icon: "/assets/icons/kiddocare.png",
-    stacks: [
-      {
-        title: "Laravel",
-        icon: "/assets/icons/laravel.png",
-      },
-      {
-        title: "VueJS",
-        icon: "/assets/icons/vue.png",
-      },
-      {
-        title: "Bootstrap",
-        icon: "/assets/icons/bootstrap.png",
-      },
-    ],
-    items: [
-      "Babysitter service between carer & client.",
-      "API integration with mobile and web.",
-    ],
-  },
-
-  {
-    title: "Contesthub",
-    icon: "/assets/icons/contesthub.png",
-    stacks: [
-      {
-        title: "Laravel",
-        icon: "/assets/icons/laravel.png",
-      },
-      {
-        title: "VueJS",
-        icon: "/assets/icons/vue.png",
-      },
-      {
-        title: "Bootstrap",
-        icon: "/assets/icons/bootstrap.png",
-      },
-    ],
-    items: [
-      "Contest & competition management system.",
-      "More than 50,000 students register for competition. (as per 2021)",
-    ],
-  },
-
-  {
-    title: "TravelCRM",
-    icon: "/assets/icons/travelcrm.png",
-    stacks: [
-      {
-        title: "Laravel",
-        icon: "/assets/icons/laravel.png",
-      },
-      {
-        title: "jQuery",
-        icon: "/assets/icons/jquery.png",
-      },
-      {
-        title: "Bootstrap",
-        icon: "/assets/icons/bootstrap.png",
-      },
-    ],
-    items: [
-      "Travel and tourism booking management.",
-      "Include referral program for both agency and freelancer.",
-    ],
-  },
-];
+import { portfolios } from "/portfolio.json";
 </script>
 
 <template>

@@ -1,48 +1,6 @@
 <script setup>
 import SkillCard from "@/components/SkillCard.vue";
-
-let skills = [
-  {
-    title: "Laravel",
-    src: "/assets/icons/laravel.png",
-  },
-  {
-    title: "VueJS",
-    src: "/assets/icons/vue.png",
-  },
-  {
-    title: "TailwindCSS",
-    src: "/assets/icons/tailwind.png",
-  },
-  {
-    title: "PHP",
-    src: "/assets/icons/php.png",
-  },
-  {
-    title: "JavaScript",
-    src: "/assets/icons/javascript.png",
-  },
-  {
-    title: "MySQL",
-    src: "/assets/icons/mysql.png",
-  },
-  {
-    title: "jQuery",
-    src: "/assets/icons/jquery.png",
-  },
-  {
-    title: "Bootstrap",
-    src: "/assets/icons/bootstrap.png",
-  },
-  {
-    title: "Wordpress",
-    src: "/assets/icons/wordpress.png",
-  },
-  {
-    title: "Git",
-    src: "/assets/icons/git.png",
-  },
-];
+import { skills } from "/portfolio.json";
 </script>
 
 <template>
