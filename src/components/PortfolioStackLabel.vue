@@ -1,5 +1,7 @@
 <template>
-  <div class="border rounded px-1 flex-row flex items-center text-sm">
+  <div
+    class="shadow shadow-blue-300/50 px-1 flex-row flex items-center text-sm"
+  >
     <slot name="icon"></slot>
     <slot></slot>
   </div>

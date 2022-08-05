@@ -67,8 +67,8 @@ let portfolios = [
       },
     ],
     items: [
-      "Contest & competition management system.",
-      "More than 50,000 students register for competition. (as per 2021)",
+      "Travel and tourism booking management.",
+      "Include referral program for both agency and freelancer.",
     ],
   },
 ];
