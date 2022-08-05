@@ -2,19 +2,19 @@
   "icons": [
     {
       "title": "Twitter",
-      "src": "/assets/icons/twitter.png",
+      "src": "assets/icons/twitter.png",
       "href": "https://twitter.com/fuaadps",
       "alt": "twitter icon"
     },
     {
       "title": "LinkedIn",
-      "src": "/assets/icons/linkedin.png",
+      "src": "assets/icons/linkedin.png",
       "href": "https://www.linkedin.com/in/fuadps/",
       "alt": "linkedin icon"
     },
     {
       "title": "GitHub",
-      "src": "/assets/icons/github.png",
+      "src": "assets/icons/github.png",
       "href": "https://github.com/fuadps",
       "alt": "github icon"
     }
@@ -25,62 +25,62 @@
   "skills": [
     {
       "title": "Laravel",
-      "src": "/assets/icons/laravel.png"
+      "src": "assets/icons/laravel.png"
     },
     {
       "title": "VueJS",
-      "src": "/assets/icons/vue.png"
+      "src": "assets/icons/vue.png"
     },
     {
       "title": "TailwindCSS",
-      "src": "/assets/icons/tailwind.png"
+      "src": "assets/icons/tailwind.png"
     },
     {
       "title": "PHP",
-      "src": "/assets/icons/php.png"
+      "src": "assets/icons/php.png"
     },
     {
       "title": "JavaScript",
-      "src": "/assets/icons/javascript.png"
+      "src": "assets/icons/javascript.png"
     },
     {
       "title": "MySQL",
-      "src": "/assets/icons/mysql.png"
+      "src": "assets/icons/mysql.png"
     },
     {
       "title": "jQuery",
-      "src": "/assets/icons/jquery.png"
+      "src": "assets/icons/jquery.png"
     },
     {
       "title": "Bootstrap",
-      "src": "/assets/icons/bootstrap.png"
+      "src": "assets/icons/bootstrap.png"
     },
     {
       "title": "Wordpress",
-      "src": "/assets/icons/wordpress.png"
+      "src": "assets/icons/wordpress.png"
     },
     {
       "title": "Git",
-      "src": "/assets/icons/git.png"
+      "src": "assets/icons/git.png"
     }
   ],
 
   "portfolios": [
     {
       "title": "Kiddocare",
-      "icon": "/assets/icons/kiddocare.png",
+      "icon": "assets/icons/kiddocare.png",
       "stacks": [
         {
           "title": "Laravel",
-          "icon": "/assets/icons/laravel.png"
+          "icon": "assets/icons/laravel.png"
         },
         {
           "title": "VueJS",
-          "icon": "/assets/icons/vue.png"
+          "icon": "assets/icons/vue.png"
         },
         {
           "title": "Bootstrap",
-          "icon": "/assets/icons/bootstrap.png"
+          "icon": "assets/icons/bootstrap.png"
         }
       ],
       "items": [
@@ -90,19 +90,19 @@
     },
     {
       "title": "Contesthub",
-      "icon": "/assets/icons/contesthub.png",
+      "icon": "assets/icons/contesthub.png",
       "stacks": [
         {
           "title": "Laravel",
-          "icon": "/assets/icons/laravel.png"
+          "icon": "assets/icons/laravel.png"
         },
         {
           "title": "VueJS",
-          "icon": "/assets/icons/vue.png"
+          "icon": "assets/icons/vue.png"
         },
         {
           "title": "Bootstrap",
-          "icon": "/assets/icons/bootstrap.png"
+          "icon": "assets/icons/bootstrap.png"
         }
       ],
       "items": [
@@ -112,19 +112,19 @@
     },
     {
       "title": "TravelCRM",
-      "icon": "/assets/icons/travelcrm.png",
+      "icon": "assets/icons/travelcrm.png",
       "stacks": [
         {
           "title": "Laravel",
-          "icon": "/assets/icons/laravel.png"
+          "icon": "assets/icons/laravel.png"
         },
         {
           "title": "jQuery",
-          "icon": "/assets/icons/jquery.png"
+          "icon": "assets/icons/jquery.png"
         },
         {
           "title": "Bootstrap",
-          "icon": "/assets/icons/bootstrap.png"
+          "icon": "assets/icons/bootstrap.png"
         }
       ],
       "items": [
