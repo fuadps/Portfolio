@@ -3,7 +3,7 @@
   <section class="grid grid-cols-1 md:grid-cols-2 content-center gap-6">
     <div class="flex flex-col align-middle justify-center order-2 md:order-1">
       <h1 class="text-5xl font-bold text-center md:text-right mb-4">
-        Hey mate!
+        Hey, mate!
       </h1>
       <p class="text-xl text-center md:text-right">
         My name is Fuad Pilus. <br />

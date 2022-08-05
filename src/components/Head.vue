@@ -6,22 +6,24 @@ let icons = [
   {
     title: "Twitter",
     src: "/assets/icons/twitter.png",
-    href: "",
+    href: "https://twitter.com/fuaadps",
     alt: "twitter icon",
   },
   {
     title: "LinkedIn",
     src: "/assets/icons/linkedin.png",
-    href: "",
+    href: "https://www.linkedin.com/in/fuadps/",
     alt: "linkedin icon",
   },
   {
     title: "GitHub",
     src: "/assets/icons/github.png",
-    href: "",
+    href: "https://github.com/fuadps",
     alt: "github icon",
   },
 ];
+
+let ctaLink = ref("mailto:fuadpls@gmail.com");
 
 let showMenu = ref(false);
 </script>
@@ -44,7 +46,8 @@ let showMenu = ref(false);
           </nav>
 
           <a
-            href="#"
+            :href="ctaLink"
+            target="_blank"
             class="text-lg px-4 py-2 bg-gradient-to-r from-cyan-600 to-blue-600 rounded text-white drop-shadow-xl"
           >
             Work with me
