@@ -11,7 +11,9 @@ let showMenu = ref(false);
     <div class="container mx-auto md:max-w-5xl">
       <section class="flex justify-between py-4 items-center ml-2.5 md:ml-0">
         <h1 class="text-4xl text-gray-800 font-bold">
-          Fuad<span class="text-blue-600">Pilus</span>
+          <RouterLink to="/"
+            >Fuad<span class="text-blue-600">Pilus</span></RouterLink
+          >
         </h1>
 
         <div class="hidden md:flex flex-row items-center align-middle gap-4">

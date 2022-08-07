@@ -26,5 +26,14 @@ import { portfolios } from "/portfolio.json";
         </li>
       </template>
     </PortfolioCard>
+
+    <p>
+      For more project I have involved, you can view
+      <RouterLink
+        to="/projects"
+        class="underline decoration-blue-600 decoration-2"
+        >here</RouterLink
+      >.
+    </p>
   </div>
 </template>

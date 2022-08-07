@@ -179,6 +179,64 @@
         "Assist senior to work as a team to maintain or implement project."
       ]
     }
+  ],
+
+  "projects": [
+    {
+      "title": "Kiddocare API",
+      "url": null
+    },
+    {
+      "title": "Kiddocare Web",
+      "url": "https://booking.kiddocare.my/"
+    },
+    {
+      "title": "Ardent Educational Sdn Bhd",
+      "url": "https://ardentedu.com"
+    },
+    {
+      "title": "Iospital – iDevice Repair Centre",
+      "url": "https://iospital.com"
+    },
+    {
+      "title": "Contesthub",
+      "url": "https://contesthub.my"
+    },
+    {
+      "title": "Kangaroo Math Malaysia",
+      "url": "https://www.kangaroomath.com.my/"
+    },
+    {
+      "title": "Kancil Science Malaysia",
+      "url": "https://kancilscience.my/"
+    },
+    {
+      "title": "Beaver Informatics Malaysia",
+      "url": "https://beaver.my/"
+    },
+    {
+      "title": "Malaysia Earth Science Olympiad",
+      "url": "https://myeso.com.my/"
+    },
+    {
+      "title": "Kijang Economics Malaysia",
+      "url": "https://kijang.my/"
+    },{
+      "title": "Persatuan Guru STEM Malaysia",
+      "url": null
+    },
+    {
+      "title": "TravelCRM by Muslimtravelbug",
+      "url": "https://app.travelcrm.co/"
+    },
+    {
+      "title": "Course Distribution System",
+      "url": "https://cdsbit.com"
+    },
+    {
+      "title": "myKoje",
+      "url": "https://github.com/fuadps/koje-app"
+    }
   ]
 
 }
