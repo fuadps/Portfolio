@@ -32,7 +32,7 @@ import ExperienceSection from "@/components/ExperienceSection.vue";
       <SkillSection />
     </GeneralSection>
 
-    <GeneralSection class="mt-12" title="Portfolio (Commercial Products)">
+    <GeneralSection class="mt-12" title="Portfolios">
       <PortfolioSection />
     </GeneralSection>
 
