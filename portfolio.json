@@ -214,12 +214,24 @@
 
   "projects": [
     {
+      "title": "JomLaunch 2022",
+      "url": "https://app.jomlaunch.my"
+    },
+    {
+      "title": "TravelCRM by Muslimtravelbug",
+      "url": "https://app.travelcrm.co/"
+    },
+    {
       "title": "Kiddocare API",
       "url": null
     },
     {
       "title": "Kiddocare Web",
       "url": "https://booking.kiddocare.my/"
+    },
+    {
+      "title": "Course Distribution System",
+      "url": "https://cdsbit.com"
     },
     {
       "title": "Ardent Educational Sdn Bhd",
@@ -255,14 +267,6 @@
     },{
       "title": "Persatuan Guru STEM Malaysia",
       "url": null
-    },
-    {
-      "title": "TravelCRM by Muslimtravelbug",
-      "url": "https://app.travelcrm.co/"
-    },
-    {
-      "title": "Course Distribution System",
-      "url": "https://cdsbit.com"
     },
     {
       "title": "myKoje",
