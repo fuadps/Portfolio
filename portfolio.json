@@ -32,6 +32,10 @@
       "src": "assets/icons/vue.png"
     },
     {
+      "title": "InertiaJS",
+      "src": "assets/icons/inertiajs.png"
+    },
+    {
       "title": "TailwindCSS",
       "src": "assets/icons/tailwind.png"
     },
@@ -66,6 +70,32 @@
   ],
 
   "portfolios": [
+    {
+      "title": "JomLaunch 2022",
+      "icon": "assets/icons/jomlaunch.jpeg",
+      "stacks": [
+        {
+          "title": "Laravel",
+          "icon": "assets/icons/laravel.png"
+        },
+        {
+          "title": "VueJS",
+          "icon": "assets/icons/vue.png"
+        },
+        {
+          "title": "InertiaJS",
+          "icon": "assets/icons/inertiajs.png"
+        },
+        {
+          "title": "Bootstrap",
+          "icon": "assets/icons/bootstrap.png"
+        }
+      ],
+      "items": [
+        "One of the largest meet-up event for local developers in Malaysia.",
+        "Event management with users, ticketing & QR system."
+      ]
+    },
     {
       "title": "Kiddocare",
       "icon": "assets/icons/kiddocare.png",
@@ -140,9 +170,10 @@
       "company": "Freelance",
       "duration": "February 2022 - Present",
       "items": [
-        "Developed web applications based on client request.",
-        "Maintaining and consulting previous company as a freelance.",
-        "Involved in TravelCRM by Muslimtravelbug for new features and bug fixes."
+        "Offer a service for developing a web application, maintenance, & integration with 3rd party API such as payment gateway.",
+        "Developed event management system for JomLaunch 2022 with ticketing & QR system .",
+        "Involved in TravelCRM by Muslimtravelbug for new features and bug fixes.",
+        "Maintaining and consulting previous company as a freelance."
       ]
     },
     {
