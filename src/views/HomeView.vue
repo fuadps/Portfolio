@@ -11,7 +11,7 @@ import ExperienceSection from "@/components/ExperienceSection.vue";
     <Hero />
     <GeneralSection class="mt-12" title="Me">
       <p class="leading-relaxed text-center md:text-start">
-        A passionated software developer with 3+ years working experience with
+        A passionated software developer with 4+ years working experience with
         PHP. Love using
         <span class="underline underline-in decoration-4 decoration-red-600"
           >Laravel</span
