@@ -41,7 +41,7 @@
     },
     {
       "title": "PHP",
-      "src": "assets/icons/php.png"
+      "src": "assets/icons/php.svg"
     },
     {
       "title": "JavaScript",
@@ -52,6 +52,10 @@
       "src": "assets/icons/mysql.png"
     },
     {
+      "title": "ReactJS",
+      "src": "assets/icons/react.svg"
+    },
+    {
       "title": "jQuery",
       "src": "assets/icons/jquery.png"
     },
@@ -60,12 +64,20 @@
       "src": "assets/icons/bootstrap.png"
     },
     {
-      "title": "Wordpress",
-      "src": "assets/icons/wordpress.png"
-    },
-    {
       "title": "Git",
       "src": "assets/icons/git.png"
+    },
+    {
+      "title": "RunCloud",
+      "src": "assets/icons/runcloud.svg"
+    },
+    {
+      "title": "PHPUnit",
+      "src": "assets/icons/phpunit.svg"
+    },
+    {
+      "title": "PestPHP",
+      "src": "assets/icons/pest.svg"
     }
   ],
 
@@ -166,9 +178,25 @@
 
   "experiences": [
     {
+      "position": "Software Developer",
+      "company": "Mirfalah Sdn Bhd",
+      "duration": "February 2023 - Present",
+      "items": [
+        "Provide digital solution for government, organization and business.",
+        "Heavily involved in Invest Pahang Business Suites web application, ease up the online investment application process for interested investor in Pahang. Has different dashboard for every department or role.",
+        "Also developed an API for Invest Pahang that will integrate with both web & mobile.",
+        "Elevated the Aducktive E-Commerce platform by integrating essential modules, including shipping, affiliate, and notifications.",
+        "Enhanced the Queue Management System (QMS) for the Rompin branch with a reporting module.",
+        "Introduce using of project management system like Trello for better planning and tracking every developer task.",
+        "Pioneered the use of pull requests and code reviews, cultivating a collaborative culture and ensuring high-quality code.",
+        "Implemented unit and feature testing methodologies (PHPUnit & PestPHP) to fortify the reliability of developed solutions.",
+        "Maintained and supported delivered projects, ensuring ongoing excellence and sustainability."
+      ]
+    },
+    {
       "position": "Web Developer",
       "company": "Freelance",
-      "duration": "February 2022 - Present",
+      "duration": "February 2022 - January 2023",
       "items": [
         "Offer a service for developing a web application, maintenance, & integration with 3rd party API such as payment gateway.",
         "Developed event management system for JomLaunch 2022 with ticketing & QR system .",

@@ -7,7 +7,7 @@
       </h1>
       <p class="text-xl text-center md:text-right">
         My name is Fuad Pilus. <br />
-        3+ years experience as a Software Developer. <br class="" />
+        4+ years experience as a Software Developer. <br class="" />
         I am currently make a living by converts caffeine into code.
       </p>
       <!--        <div class="flex flex-row gap-4 justify-end items-center mt-4">-->
