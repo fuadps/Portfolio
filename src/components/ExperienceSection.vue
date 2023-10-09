@@ -1,5 +1,16 @@
 <script setup>
-import { experiences } from "/portfolio.json";
+import {onMounted, ref} from "vue";
+
+const experiences = ref();
+
+const fetchExperiences = () => {
+  return fetch('/portfolio.json').then((response) => response.json()).then((json) => json['experiences'])
+};
+
+onMounted(async () => {
+  experiences.value = await fetchExperiences()
+})
+
 </script>
 
 <template>

@@ -1,7 +1,18 @@
 <script setup>
 import PortfolioCard from "@/components/PortfolioCard.vue";
 import PortfolioStackLabel from "@/components/PortfolioStackLabel.vue";
-import { portfolios } from "/portfolio.json";
+import {onMounted, ref} from "vue";
+
+const portfolios = ref();
+
+const fetchPortfolios = () => {
+  return fetch('/portfolio.json').then((response) => response.json()).then((json) => json['portfolios'])
+};
+
+onMounted(async () => {
+  portfolios.value = await fetchPortfolios()
+})
+
 </script>
 
 <template>

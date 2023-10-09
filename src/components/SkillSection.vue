@@ -1,6 +1,16 @@
 <script setup>
 import SkillCard from "@/components/SkillCard.vue";
-import { skills } from "/portfolio.json";
+import {onMounted, ref} from "vue";
+
+const skills = ref();
+
+const fetchSkills = () => {
+  return fetch('/portfolio.json').then((response) => response.json()).then((json) => json['skills'])
+};
+
+onMounted(async () => {
+  skills.value = await fetchSkills()
+})
 </script>
 
 <template>

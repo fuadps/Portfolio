@@ -1,5 +1,16 @@
 <script setup>
-import { projects } from "/portfolio.json";
+import {onMounted, ref} from "vue";
+
+const projects = ref();
+
+const fetchProjects = () => {
+  return fetch('/portfolio.json').then((response) => response.json()).then((json) => json['projects'])
+};
+
+onMounted(async () => {
+  projects.value = await fetchProjects()
+})
+
 </script>
 
 <template>
