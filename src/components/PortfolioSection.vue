@@ -21,6 +21,7 @@ onMounted(async () => {
       v-for="portfolio in portfolios"
       :title="portfolio.title"
       :icon="portfolio.icon"
+      :link="portfolio.link"
     >
       <template #stacks>
         <PortfolioStackLabel v-for="stack in portfolio.stacks">

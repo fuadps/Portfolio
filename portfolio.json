@@ -83,7 +83,51 @@
 
   "portfolios": [
     {
+      "title": "Invest Pahang Business Suites",
+      "link": "https://digitalsuite.psk.gov.my",
+      "icon": "assets/icons/invest-pahang.png",
+      "stacks": [
+        {
+          "title": "Laravel",
+          "icon": "assets/icons/laravel.png"
+        },
+        {
+          "title": "Bootstrap",
+          "icon": "assets/icons/bootstrap.png"
+        }
+      ],
+      "items": [
+        "Government incentive for stakeholder to aid the potential investments into Pahang",
+        "100+ companies registered and express interest in investing (as per October 2023)"
+      ]
+    },
+    {
+      "title": "Aducktive Business",
+      "link": "https://business.aducktive.com",
+      "icon": "assets/icons/aducktive.webp",
+      "stacks": [
+        {
+          "title": "Laravel",
+          "icon": "assets/icons/laravel.png"
+        },
+        {
+          "title": "VueJS",
+          "icon": "assets/icons/vue.png"
+        },
+        {
+          "title": "Bootstrap",
+          "icon": "assets/icons/bootstrap.png"
+        }
+      ],
+      "items": [
+        "Salted Egg Snack Business in Malaysia",
+        "An E-Commerce store build for HQ and Agent",
+        "500+ agent registered (as per October 2023)"
+      ]
+    },
+    {
       "title": "JomLaunch 2022",
+      "link": "https://jomlaunch.my",
       "icon": "assets/icons/jomlaunch.jpeg",
       "stacks": [
         {
@@ -109,7 +153,35 @@
       ]
     },
     {
+      "title": "PromoSys",
+      "link": "https://promosys.org",
+      "icon": "assets/icons/promosys.png",
+      "stacks": [
+        {
+          "title": "Laravel",
+          "icon": "assets/icons/laravel.png"
+        },
+        {
+          "title": "VueJS",
+          "icon": "assets/icons/vue.png"
+        },
+        {
+          "title": "InertiaJS",
+          "icon": "assets/icons/inertiajs.png"
+        },
+        {
+          "title": "TailwindCSS",
+          "icon": "assets/icons/tailwind.png"
+        }
+      ],
+      "items": [
+        "Project Monitoring System used by Politeknik Ungku Omar students",
+        "Include a work placement log & report modules."
+      ]
+    },
+    {
       "title": "Kiddocare",
+      "link": "https://kiddocare.my",
       "icon": "assets/icons/kiddocare.png",
       "stacks": [
         {
@@ -127,11 +199,13 @@
       ],
       "items": [
         "Babysitter service between carer & client.",
-        "API integration with mobile and web."
+        "API integration with mobile and web.",
+        "500+ carer registered (as per April 2022)"
       ]
     },
     {
       "title": "Contesthub",
+      "link": "https://contesthub.my",
       "icon": "assets/icons/contesthub.png",
       "stacks": [
         {
@@ -154,6 +228,7 @@
     },
     {
       "title": "TravelCRM",
+      "link": "https://travelcrm.co",
       "icon": "assets/icons/travelcrm.png",
       "stacks": [
         {
@@ -183,11 +258,10 @@
       "duration": "February 2023 - Present",
       "items": [
         "Provide digital solution for government, organization and business.",
-        "Heavily involved in Invest Pahang Business Suites web application, ease up the online investment application process for interested investor in Pahang. Has different dashboard for every department or role.",
-        "Also developed an API for Invest Pahang that will integrate with both web & mobile.",
-        "Elevated the Aducktive E-Commerce platform by integrating essential modules, including shipping, affiliate, and notifications.",
-        "Enhanced the Queue Management System (QMS) for the Rompin branch with a reporting module.",
-        "Introduce using of project management system like Trello for better planning and tracking every developer task.",
+        "Developing a web application, Rest API & integration with 3rd party services.",
+        "Setup architecture for backend web application (Laravel, MySQL, Redis).",
+        "Guide a junior developer.",
+        "Introduce the use of a project management system, such as Trello, to enhance planning and facilitate the tracking of tasks for each developer.",
         "Pioneered the use of pull requests and code reviews, cultivating a collaborative culture and ensuring high-quality code.",
         "Implemented unit and feature testing methodologies (PHPUnit & PestPHP) to fortify the reliability of developed solutions.",
         "Maintained and supported delivered projects, ensuring ongoing excellence and sustainability."
@@ -241,6 +315,26 @@
   ],
 
   "projects": [
+    {
+      "title": "Invest Pahang Business Suites",
+      "url": "https://digitalsuite.psk.gov.my"
+    },
+    {
+      "title": "Invest Pahang HR API",
+      "url": null
+    },
+    {
+      "title": "Ehartanah",
+      "url": null
+    },
+    {
+      "title": "PromoSys",
+      "url": "https://promosys.org"
+    },
+    {
+      "title": "Aducktive Business",
+      "url": "https://business.aducktive.com/"
+    },
     {
       "title": "JomLaunch 2022",
       "url": "https://app.jomlaunch.my"

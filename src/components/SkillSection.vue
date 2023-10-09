@@ -14,7 +14,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+  <div class="grid grid-cols-2 md:grid-cols-7 gap-4 w-full">
     <SkillCard v-for="skill in skills" :title="skill.title" :src="skill.src" />
   </div>
 </template>
