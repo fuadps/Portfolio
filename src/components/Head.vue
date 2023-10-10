@@ -1,7 +1,20 @@
 <script setup>
 import IconLink from "@/components/IconLink.vue";
-import { ref } from "vue";
-import { icons, ctaLink } from "/portfolio.json";
+import {onMounted, ref} from "vue";
+
+const icons = ref();
+const ctaLink = ref();
+
+const fetchInfos = () => {
+  return fetch('/portfolio.json').then((response) => response.json()).then((json) => json)
+};
+
+onMounted(async () => {
+  let infos = await fetchInfos()
+
+  icons.value = infos.icons
+  ctaLink.value = infos.ctaLink
+})
 
 let showMenu = ref(false);
 </script>
