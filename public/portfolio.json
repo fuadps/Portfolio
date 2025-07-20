@@ -253,18 +253,28 @@
 
   "experiences": [
     {
-      "position": "Software Developer",
-      "company": "Mirfalah Sdn Bhd",
-      "duration": "February 2023 - Present",
+      "position": "UI/UX Engineer",
+      "company": "Daysmart Vet",
+      "duration": "February 2024 - Present",
       "items": [
-        "Provide digital solution for government, organization and business.",
-        "Developing a web application, Rest API & integration with 3rd party services.",
-        "Setup architecture for backend web application (Laravel, MySQL, Redis).",
-        "Guide a junior developer.",
-        "Introduce the use of a project management system, such as Trello, to enhance planning and facilitate the tracking of tasks for each developer.",
-        "Pioneered the use of pull requests and code reviews, cultivating a collaborative culture and ensuring high-quality code.",
-        "Implemented unit and feature testing methodologies (PHPUnit & PestPHP) to fortify the reliability of developed solutions.",
-        "Maintained and supported delivered projects, ensuring ongoing excellence and sustainability."
+        "Worked in an Agile development environment, collaborating with a local development team and U.S.-based stakeholders to deliver product improvements.",
+        "Enhanced UI/UX for a platform serving primarily U.S. customers, ensuring an intuitive and accessible user experience aligned with international standards.",
+        "Involve migration from CodeIgniter to Vue.js, modernizing the application stack for scalability and maintainability.",
+        "Designed and implemented fresh UI/UX updates, improving usability and customer satisfaction.",
+        "Diagnosed and resolved critical bugs and regressions, improving system performance and reliability."
+      ]
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Mirfalah Sdn Bhd",
+      "duration": "February 2023 - January 2024",
+      "items": [
+        "Developed and deployed custom web applications and REST APIs using Laravel, MySQL, and Redis, enabling scalable backend solutions and reducing page load time.",
+        "Integrated multiple third-party APIs, including payment gateways and data services, improving system interoperability and client satisfaction.",
+        "Spearheaded implementation of Agile practices, introducing Trello for project tracking, which improved delivery predictability.",
+        "Ensure code quality by enforcing pull requests and structured code reviews, reducing post-deployment bugs.",
+        "Introduced unit and feature testing with PHPUnit and PestPHP, boosting test coverage and reducing production issues.",
+        "Mentored a junior developer, fostering best coding practices and improving team skill maturity."
       ]
     },
     {
@@ -272,10 +282,11 @@
       "company": "Freelance",
       "duration": "February 2022 - January 2023",
       "items": [
-        "Offer a service for developing a web application, maintenance, & integration with 3rd party API such as payment gateway.",
-        "Developed event management system for JomLaunch 2022 with ticketing & QR system .",
-        "Involved in TravelCRM by Muslimtravelbug for new features and bug fixes.",
-        "Maintaining and consulting previous company as a freelance."
+        "Delivered complete web solutions for clients, including API integrations and performance optimizations.",
+        "Developed Event Management System for JomLaunch 2022 with ticketing and QR-based check-in.",
+        "Enhanced TravelCRM for Muslimtravelbug by adding new features and resolving major issues.",
+        "Built PromoSys for Politeknik Ungku Omar to streamline student project tracking and reporting.",
+        "Provided long-term technical support and maintenance for multiple client systems."
       ]
     },
     {
@@ -283,22 +294,21 @@
       "company": "Kiddocare Sdn Bhd",
       "duration": "December 2020 - January 2022",
       "items": [
-        "Malaysia’s first and preferred on-demand babysitting platform.",
-        "Develop REST API using Laravel to create integration with front-end and mobile application.",
-        "Build customer web booking system (front-end) using VueJS.",
-        "Ensure admin dashboard has real-time booking information.",
-        "Integrate real-time chat system using websocket."
+        "Sole developer responsible for backend architecture using Laravel and Vue.js during early development phases.",
+        "Built REST APIs for seamless integration between web and mobile apps.",
+        "Developed customer booking systems and an admin dashboard for real-time data visibility.",
+        "Implemented real-time chat features using WebSockets, improving customer support responsiveness.",
+        "Optimized database performance, reducing query load times by 30%."
       ]
     },
     {
       "position": "Web Developer",
-      "company": "Ardent Educational Sdn Bhd",
+      "company": "Ardent Educational Consultants",
       "duration": "Jun 2019 - November 2022",
       "items": [
-        "Leading education advisory and consultancy service from Malaysia.",
-        "Develop new features, improvement to existing features and maintain Contesthub, a system used for organize event or competition created by company.",
-        "Working on the back-end side, and a little front-end when needed.",
-        "Responsible develop & design website for every competition & event."
+        "Maintained and updated company websites using Laravel and WordPress.",
+        "Designed responsive UI components using Elementor, improving site usability.",
+        "Developed custom solutions for internal systems, ensuring smooth business operations."
       ]
     },
     {
@@ -306,10 +316,8 @@
       "company": "Sonicboom Solutions Sdn Bhd",
       "duration": "December 2017 - April 2018",
       "items": [
-        "Programming in C#, ASP. Net/MVC, WPF to build desktop and web application.",
-        "Develop application/system using Microsoft Visual Studio, SQL Server and Reporting Services",
-        "Working on the back-end side, and a little front-end when needed.",
-        "Assist senior to work as a team to maintain or implement project."
+        "Developed desktop and web applications using C#, ASP.NET MVC, and WPF.",
+        "Assisted in system implementation and maintenance using Visual Studio, SQL Server, and Reporting Services."
       ]
     }
   ],

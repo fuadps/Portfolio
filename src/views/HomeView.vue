@@ -4,6 +4,9 @@ import GeneralSection from "@/components/GeneralSection.vue";
 import SkillSection from "@/components/SkillSection.vue";
 import PortfolioSection from "@/components/PortfolioSection.vue";
 import ExperienceSection from "@/components/ExperienceSection.vue";
+import { useExperience } from "@/composables/useExperience";
+
+const { yearOfExperience } = useExperience();
 </script>
 
 <template>
@@ -11,20 +14,21 @@ import ExperienceSection from "@/components/ExperienceSection.vue";
     <Hero />
     <GeneralSection class="mt-12" title="Me">
       <p class="leading-relaxed text-center md:text-start">
-        A passionated software developer with 4+ years working experience with
-        PHP. Love using
+        Software Engineer with {{ yearOfExperience }}+ years of experience
+        building web apps that not only work great but look amazing too! I work
+        mostly with
         <span class="underline underline-in decoration-4 decoration-red-600"
           >Laravel</span
         >,
-        <span class="underline decoration-4 decoration-green-700">Vue</span> &
+        <span class="underline decoration-4 decoration-green-700">Vue.js</span>
+        &
         <span class="underline decoration-4 decoration-blue-400"
           >TailwindCSS</span
-        >
-        as my main tools for web development. I love to read and explore various
-        new web technologies and am always on the lookout for good concept,
-        design patterns and best practices to learn and apply on my
-        work/projects. I also an adept learner so I can pickup any tools or
-        languages in a very short time.
+        >, crafting smooth backends and intuitive frontends. I enjoy turning
+        complex problems into simple, elegant solutions and making user
+        experiences delightful. Big fan of clean code, design patterns, and best
+        practices but also love experimenting with new tech. Always curious,
+        always learning, and always excited to build something awesome!
       </p>
     </GeneralSection>
 

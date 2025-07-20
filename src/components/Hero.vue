@@ -1,4 +1,8 @@
-<script setup></script>
+<script setup>
+import { useExperience } from "@/composables/useExperience";
+
+const { yearOfExperience } = useExperience();
+</script>
 <template>
   <section class="grid grid-cols-1 md:grid-cols-2 content-center gap-6">
     <div class="flex flex-col align-middle justify-center order-2 md:order-1">
@@ -7,7 +11,8 @@
       </h1>
       <p class="text-xl text-center md:text-right">
         My name is Fuad Pilus. <br />
-        4+ years experience as a Software Developer. <br class="" />
+        {{ yearOfExperience }}+ years experience as a Software Engineer.
+        <br class="" />
         I am currently make a living by converts caffeine into code.
       </p>
       <!--        <div class="flex flex-row gap-4 justify-end items-center mt-4">-->
